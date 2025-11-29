@@ -1,5 +1,6 @@
 .DS_Store
 temp.lua
+*.p8.png
 
 # Compiled Lua sources
 luac.out
